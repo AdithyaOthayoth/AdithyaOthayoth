@@ -24,7 +24,7 @@ Passionate about solving complex problems and building scalable applications.
 
 LinkedIn: www.linkedin.com/in/adithyaothayoth
 
-Portfolio: datascienceportfol.io/adithyaothayoth
+Portfolio: https://www.datascienceportfol.io/adithyaothayoth
 
 Looking forward to collaborating and learning together! 🎯
 
