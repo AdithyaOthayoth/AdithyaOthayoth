@@ -10,9 +10,9 @@ Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), 
 
 Databases: SQL Server, PostgreSQL
 
-Data Science: Machine Learning, Data Analytics, EDA, Power BI
+Data Science: Machine Learning, Data Analytics, EDA, Power BI, Tableau
 
-Project Management: Agile, Trello, Git
+Project Management: Agile, Trello, Git, TFS
 
 🚀 Experience
 
@@ -24,7 +24,7 @@ Passionate about solving complex problems and building scalable applications.
 
 LinkedIn: www.linkedin.com/in/adithyaothayoth
 
-Portfolio: https://www.datascienceportfol.io/adithyaothayoth
+<!--Portfolio: https://www.datascienceportfol.io/adithyaothayoth -->
 
 Looking forward to collaborating and learning together! 🎯
 
