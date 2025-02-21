@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Software Consultant with expertise in .NET Core, SQL
 
 Programming Languages: C#, Python, JavaScript
 
-Frameworks & Tools: .NET Core, ASP.NET, Playwright (Test Automation), React
+Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), React
 
 Databases: SQL Server, PostgreSQL
 
