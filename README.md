@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm a Software Consultant with expertise in .NET Core, SQL, project management, and test automation, along with a strong background in data science and web technologies.
+Welcome to my GitHub! I'm a software consultant with expertise in .NET Core, SQL, project management, data analytics, and test automation, and I have a strong background in data science and web technologies.
 
 🔧 Technologies & Skills
 
-Programming Languages: C#, Python, JavaScript
-
-
-![c-sharp-c](https://github.com/user-attachments/assets/bade4d2f-1e87-4394-a87b-dc96f234bfc9)
-![4375050_logo_python_icon (1)](https://github.com/user-attachments/assets/671f6dda-d55f-4ddb-b7d3-97160387de02)    
-
+Programming Languages: C#, Python, JavaScript  
 
 Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), React
 
@@ -25,10 +20,11 @@ Worked in bespoke software development environments, handling full-stack develop
 
 Passionate about solving complex problems and building scalable applications.
 
-📫 Let's Connect!
+📫 How to reach me:
 
 LinkedIn: www.linkedin.com/in/adithyaothayoth
 
+adithyaothayoth@gmail.com
 <!--Portfolio: https://www.datascienceportfol.io/adithyaothayoth -->
 
 Looking forward to collaborating and learning together! 🎯
@@ -44,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
