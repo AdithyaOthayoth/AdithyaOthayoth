@@ -6,7 +6,10 @@ Welcome to my GitHub! I'm a Software Consultant with expertise in .NET Core, SQL
 
 Programming Languages: C#, Python, JavaScript
 
-![4375050_logo_python_icon (1)](https://github.com/user-attachments/assets/671f6dda-d55f-4ddb-b7d3-97160387de02)
+![4375050_logo_python_icon (1)](https://github.com/user-attachments/assets/671f6dda-d55f-4ddb-b7d3-97160387de02)    
+![4375050_logo_python_icon (1)](https://github.com/user-attachments/assets/2175c6fa-6de4-4416-8f8c-18a54f1546eb)
+![9080537_brand_javascript_icon](https://github.com/user-attachments/assets/7931d7bd-1961-4a1c-b44f-7bfeaebede06)
+![hashtag](https://github.com/user-attachments/assets/ba2326a7-9fbe-4fb4-b5a7-6a32b4d86cb2)
 
 Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), React
 
