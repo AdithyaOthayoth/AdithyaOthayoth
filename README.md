@@ -2,7 +2,29 @@
 
 Welcome to my GitHub! I'm a software consultant with expertise in .NET Core, SQL, project management, data analytics, and test automation, and I have a strong background in data science and web technologies.
 <!-- Start --> 
+🔧 Technologies & Skills
 
+Programming Languages: C#, Python, JavaScript  
+
+Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), React
+
+Databases: SQL Server, PostgreSQL
+
+Data Science: Machine Learning, Data Analytics, EDA, Power BI, Tableau
+
+Project Management: Agile, Trello, Git, TFS
+
+🚀 Experience
+
+Worked in bespoke software development environments, handling full-stack development, automation testing, and data analytics.
+
+Passionate about solving complex problems and building scalable applications.
+
+📫 How to reach me:
+
+LinkedIn: www.linkedin.com/in/adithyaothayoth
+
+adithyaothayoth@gmail.com
 
 
 ## 🌐 Socials:
@@ -30,29 +52,7 @@ Welcome to my GitHub! I'm a software consultant with expertise in .NET Core, SQL
 
 
 <!-- end -->
-🔧 Technologies & Skills
 
-Programming Languages: C#, Python, JavaScript  
-
-Frameworks & Tools: .NET Core, ASP.NET Web Forms, Playwright (Test Automation), React
-
-Databases: SQL Server, PostgreSQL
-
-Data Science: Machine Learning, Data Analytics, EDA, Power BI, Tableau
-
-Project Management: Agile, Trello, Git, TFS
-
-🚀 Experience
-
-Worked in bespoke software development environments, handling full-stack development, automation testing, and data analytics.
-
-Passionate about solving complex problems and building scalable applications.
-
-📫 How to reach me:
-
-LinkedIn: www.linkedin.com/in/adithyaothayoth
-
-adithyaothayoth@gmail.com
 <!--Portfolio: https://www.datascienceportfol.io/adithyaothayoth -->
 
 Looking forward to collaborating and learning together! 🎯
